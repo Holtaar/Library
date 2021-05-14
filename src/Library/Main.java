@@ -13,5 +13,7 @@ public class Main {
                 2008, 851, "McGraw-Hill Osborne Media", "9780071591065");
 
         book1.printInfo();
+        book2.printInfo();
+        book3.printInfo();
     }
 }
